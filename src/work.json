@@ -1,0 +1,342 @@
+[
+    {
+        "image": "",
+        "imageArr":{
+            "first":"",
+            "second":""
+        },
+        "price": "$150",
+        "location": {
+            "place": "Paris, France",
+            "beds": 2,
+            "rooms": 1,
+            "freeCancel": true
+        },
+        "adults": 4,
+        "children": 2
+    },
+    {
+        "image": "",
+        "price": "$200",
+        "location": {
+            "place": "New York, USA",
+            "beds": 3,
+            "rooms": 2,
+            "freeCancel": false
+        },
+        "adults": 3,
+        "children": 1
+    },
+    {
+        "image": "",
+        "price": "$180",
+        "location": {
+            "place": "Tokyo, Japan",
+            "beds": 2,
+            "rooms": 1,
+            "freeCancel": true
+        },
+        "adults": 2,
+        "children": 3
+    },
+    {
+        "image": "",
+        "price": "$175",
+        "location": {
+            "place": "London, UK",
+            "beds": 2,
+            "rooms": 1,
+            "freeCancel": false
+        },
+        "adults": 5,
+        "children": 2
+    },
+    {
+        "image": "",
+        "price": "$160",
+        "location": {
+            "place": "Sydney, Australia",
+            "beds": 2,
+            "rooms": 1,
+            "freeCancel": true
+        },
+        "adults": 3,
+        "children": 1
+    },
+    {
+        "image": "",
+        "price": "$140",
+        "location": {
+            "place": "Rome, Italy",
+            "beds": 1,
+            "rooms": 1,
+            "freeCancel": false
+        },
+        "adults": 1,
+        "children": 0
+    },
+    {
+        "image": "",
+        "price": "$130",
+        "location": {
+            "place": "Berlin, Germany",
+            "beds": 1,
+            "rooms": 1,
+            "freeCancel": true
+        },
+        "adults": 2,
+        "children": 1
+    },
+    {
+        "image": "",
+        "price": "$155",
+        "location": {
+            "place": "Toronto, Canada",
+            "beds": 2,
+            "rooms": 1,
+            "freeCancel": false
+        },
+        "adults": 4,
+        "children": 2
+    },
+    {
+        "image": "",
+        "price": "$145",
+        "location": {
+            "place": "Barcelona, Spain",
+            "beds": 2,
+            "rooms": 1,
+            "freeCancel": true
+        },
+        "adults": 3,
+        "children": 1
+    },
+    {
+        "image": "",
+        "price": "$165",
+        "location": {
+            "place": "Amsterdam, Netherlands",
+            "beds": 2,
+            "rooms": 1,
+            "freeCancel": false
+        },
+        "adults": 2,
+        "children": 1
+    },
+    {
+        "image": "",
+        "price": "$220",
+        "location": {
+            "place": "Dubai, UAE",
+            "beds": 3,
+            "rooms": 2,
+            "freeCancel": true
+        },
+        "adults": 6,
+        "children": 3
+    },
+    {
+        "image": "",
+        "price": "$135",
+        "location": {
+            "place": "Istanbul, Turkey",
+            "beds": 1,
+            "rooms": 1,
+            "freeCancel": false
+        },
+        "adults": 1,
+        "children": 0
+    },
+    {
+        "image": "",
+        "price": "$125",
+        "location": {
+            "place": "Bangkok, Thailand",
+            "beds": 1,
+            "rooms": 1,
+            "freeCancel": true
+        },
+        "adults": 2,
+        "children": 1
+    },
+    {
+        "image": "",
+        "price": "$110",
+        "location": {
+            "place": "Rio de Janeiro, Brazil",
+            "beds": 1,
+            "rooms": 1,
+            "freeCancel": false
+        },
+        "adults": 1,
+        "children": 0
+    },
+    {
+        "image": "",
+        "price": "$140",
+        "location": {
+            "place": "Cape Town, South Africa",
+            "beds": 2,
+            "rooms": 1,
+            "freeCancel": true
+        },
+        "adults": 3,
+        "children": 1
+    },
+    {
+        "image": "",
+        "price": "$210",
+        "location": {
+            "place": "Los Angeles, USA",
+            "beds": 3,
+            "rooms": 2,
+            "freeCancel": false
+        },
+        "adults": 5,
+        "children": 2
+    },
+    {
+        "image": "",
+        "price": "$170",
+        "location": {
+            "place": "Moscow, Russia",
+            "beds": 2,
+            "rooms": 1,
+            "freeCancel": true
+        },
+        "adults": 4,
+        "children": 2
+    },
+    {
+        "image": "",
+        "price": "$130",
+        "location": {
+            "place": "Buenos Aires, Argentina",
+            "beds": 1,
+            "rooms": 1,
+            "freeCancel": false
+        },
+        "adults": 2,
+        "children": 1
+    },
+    {
+        "image": "",
+        "price": "$120",
+        "location": {
+            "place": "Mumbai, India",
+            "beds": 1,
+            "rooms": 1,
+            "freeCancel": true
+        },
+        "adults": 3,
+        "children": 1
+    },
+    {
+        "image": "",
+        "price": "$160",
+        "location": {
+            "place": "Seoul, South Korea",
+            "beds": 2,
+            "rooms": 1,
+            "freeCancel": false
+        },
+        "adults": 2,
+        "children": 1
+    },
+    {
+        "image": "",
+        "price": "$250",
+        "location": {
+            "place": "San Francisco, USA",
+            "beds": 3,
+            "rooms": 2,
+            "freeCancel": true
+        },
+        "adults": 7,
+        "children": 4
+    },
+    {
+        "image": "",
+        "price": "$140",
+        "location": {
+            "place": "Athens, Greece",
+            "beds": 2,
+            "rooms": 1,
+            "freeCancel": false
+        },
+        "adults": 3,
+        "children": 1
+    },
+    {
+        "image": "",
+        "price": "$150",
+        "location": {
+            "place": "Lisbon, Portugal",
+            "beds": 2,
+            "rooms": 1,
+            "freeCancel": true
+        },
+        "adults": 4,
+        "children": 2
+    },
+    {
+        "image": "",
+        "price": "$130",
+        "location": {
+            "place": "Helsinki, Finland",
+            "beds": 1,
+            "rooms": 1,
+            "freeCancel": true
+        },
+        "adults": 3,
+        "children": 1
+    },
+    {
+        "image": "",
+        "price": "$150",
+        "location": {
+            "place": "Stockholm, Sweden",
+            "beds": 2,
+            "rooms": 1,
+            "freeCancel": false
+        },
+        "adults": 4,
+        "children": 2
+    },
+    {
+        "image": "",
+        "price": "$140",
+        "location": {
+            "place": "Copenhagen, Denmark",
+            "beds": 2,
+            "rooms": 1,
+            "freeCancel": true
+        },
+        "adults": 5,
+        "children": 3
+    },
+    {
+        "image": "",
+        "price": "$140",
+        "location": {
+            "place": "Oslo, Norway",
+            "beds": 2,
+            "rooms": 1,
+            "freeCancel": false
+        },
+        "adults": 3,
+        "children": 1
+    },
+    {
+        "image": "",
+        "price": "$175",
+        "location": {
+            "place": "Reykjavik, Iceland",
+            "beds": 2,
+            "rooms": 1,
+            "freeCancel": true
+        },
+        "adults": 4,
+        "children": 2
+    }
+]

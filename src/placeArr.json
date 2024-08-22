@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/wp-content/uploads/2021/08/download-7.jpg",
+    "extraImages": {
+      "first": "https://media.gettyimages.com/id/1248992387/photo/scandinavian-bedroom-interior-stock-photo.jpg?s=612x612&w=0&k=20&c=yk1UrXpw8zRiS4JnowYbpE56KadGDNK-TxA3VwgPfoo=",
+      "second": "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    "price": "$150",
+    "location": {
+      "place": "Paris, France",
+      "beds": 2,
+      "rooms": 1,
+      "freeCancel": true,
+      "information": "Charming Parisian apartment with elegant decor and a cozy atmosphere. Perfect for a romantic getaway.",
+      "position": [48.8566, 2.3522]
+    },
+    "adults": 4,
+    "children": 2
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGJlYXV0aWZ1bCUyMGhvdXNlfGVufDB8fDB8fHww",
+    "extraImages": {
+      "first": "https://st.hzcdn.com/fimgs/c5e111a1001bb5cd_6994-w720-h720-b2-p0--.jpg",
+      "second": "https://images.pexels.com/photos/2062426/pexels-photo-2062426.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    "price": "$200",
+    "location": {
+      "place": "New York, USA",
+      "beds": 3,
+      "rooms": 2,
+      "freeCancel": false,
+      "information": "Spacious and modern apartment located in the heart of Manhattan. Ideal for exploring the city.",
+      "position": [40.7128, -74.0060] 
+    },
+    "adults": 3,
+    "children": 1
+  },
+  {
+    "image": "https://t4.ftcdn.net/jpg/02/79/95/39/360_F_279953994_TmVqT7CQhWQJRLXev4oFmv8GIZTgJF1d.jpg",
+    "extraImages": {
+      "first": "https://st.hzcdn.com/fimgs/c5e111a1001bb5cd_6994-w720-h720-b2-p0--.jpg",
+      "second": "https://images.pexels.com/photos/1358900/pexels-photo-1358900.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    "price": "$180",
+    "location": {
+      "place": "Tokyo, Japan",
+      "beds": 2,
+      "rooms": 1,
+      "freeCancel": true,
+      "information": "Stylish Tokyo apartment with contemporary design and easy access to local attractions.",
+      "position": [35.6762, 139.6503] 
+    },
+    "adults": 2,
+    "children": 3
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMYopneXydH1Tj-HVI4vtdHy-PKAw_HOIggg&s",
+    "extraImages": {
+      "first": "https://st.hzcdn.com/fimgs/efd18a6807adf54e_5499-w720-h720-b2-p0--.jpg",
+      "second": "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    "price": "$175",
+    "location": {
+      "place": "London, UK",
+      "beds": 2,
+      "rooms": 1,
+      "freeCancel": false,
+      "information": "Cozy apartment in a quiet London neighborhood, offering a relaxing stay with convenient transport links.",
+      "position": [51.5074, -0.1278] 
+    },
+    "adults": 5,
+    "children": 2
+  },
+  {
+    "image": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "extraImages": {
+      "first": "https://st.hzcdn.com/fimgs/pictures/bedrooms/moores-mill-anderson-and-rodgers-construction-img~bd41c0030a7cbf3c_3504-1-1046ff8-w720-h720-b2-p0.jpg",
+      "second": "https://images.pexels.com/photos/94865/pexels-photo-94865.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    "price": "$160",
+    "location": {
+      "place": "Sydney, Australia",
+      "beds": 2,
+      "rooms": 1,
+      "freeCancel": true,
+      "information": "Modern apartment with stunning views of Sydney Harbour. A perfect spot for a relaxing vacation.",
+      "position": [-33.8688, 151.2093] 
+    },
+    "adults": 3,
+    "children": 1
+  },
+  {
+    "image": "https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "extraImages": {
+      "first": "https://st.hzcdn.com/fimgs/32c1df75024b74a2_0042-w720-h720-b2-p0--.jpg",
+      "second": "https://images.pexels.com/photos/2635038/pexels-photo-2635038.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    "price": "$140",
+    "location": {
+      "place": "Rome, Italy",
+      "beds": 1,
+      "rooms": 1,
+      "freeCancel": false,
+      "information": "Charming studio in the heart of Rome, ideal for exploring historic sites and enjoying local cuisine.",
+      "position": [41.9028, 12.4964] 
+    },
+    "adults": 1,
+    "children": 0
+  },
+  {
+    "image": "https://images.pexels.com/photos/221540/pexels-photo-221540.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "extraImages": {
+      "first": "https://st.hzcdn.com/fimgs/pictures/bedrooms/the-evans-floor-plan-as-a-model-home-bercher-homes-img~2a2105070f22bbf1_2611-1-c9c69ed-w720-h720-b2-p0.jpg",
+      "second": "https://images.pexels.com/photos/2635038/pexels-photo-2635038.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    "price": "$130",
+    "location": {
+      "place": "Berlin, Germany",
+      "beds": 1,
+      "rooms": 1,
+      "freeCancel": true,
+      "information": "Stylish Berlin apartment with modern amenities and easy access to the city center.",
+      "position": [52.5200, 13.4050] 
+    },
+    "adults": 2,
+    "children": 1
+  },
+  {
+    "image": "https://images.pexels.com/photos/323775/pexels-photo-323775.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "extraImages": {
+      "first": "https://st.hzcdn.com/fimgs/pictures/bedrooms/coastal-elegance-vero-beach-seaside-interiors-by-our-boat-house-img~7711100e08aedca2_9030-1-1529a63-w720-h720-b2-p0.jpg",
+      "second": "https://images.pexels.com/photos/276554/pexels-photo-276554.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    "price": "$155",
+    "location": {
+      "place": "Toronto, Canada",
+      "beds": 2,
+      "rooms": 1,
+      "freeCancel": true,
+      "information": "Beautiful apartment with a great view of Toronto's skyline and close to major attractions.",
+      "position": [43.6510, -79.3470] 
+    },
+    "adults": 2,
+    "children": 2
+  }
+]
